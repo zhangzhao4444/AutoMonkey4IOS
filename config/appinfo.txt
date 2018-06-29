@@ -1,0 +1,8 @@
+[
+	{
+		"appName": "PandaTV",
+		"bundleId": "com.PandaTV.Live-iPhone",
+		"username": "18611111111",
+		"password": "1111"
+	}
+]
